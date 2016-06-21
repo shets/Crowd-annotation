@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['_24connect',['$connect',['../conf_8inc_8php.html#a956617395b85e98d907df712f6d0d3f7',1,'$connect():&#160;conf.inc.php'],['../core_8inc_8php.html#a956617395b85e98d907df712f6d0d3f7',1,'$connect():&#160;core.inc.php'],['../index_8php.html#a956617395b85e98d907df712f6d0d3f7',1,'$connect():&#160;index.php'],['../login_8php.html#a956617395b85e98d907df712f6d0d3f7',1,'$connect():&#160;login.php'],['../main_8php.html#a956617395b85e98d907df712f6d0d3f7',1,'$connect():&#160;main.php'],['../search_8inc_8php.html#a956617395b85e98d907df712f6d0d3f7',1,'$connect():&#160;search.inc.php'],['../web__disp_8php.html#a956617395b85e98d907df712f6d0d3f7',1,'$connect():&#160;web_disp.php']]],
+  ['_24current',['$current',['../core_8php.html#a2c4c58e377f6c66ca38c8ea97666fc5e',1,'core.php']]],
+  ['_24current_5ffile',['$current_file',['../core_8inc_8php.html#a89c8dde1a6e088adf4b6955a1bc2d2a1',1,'core.inc.php']]],
+  ['_24data_5ftest',['$data_test',['../search_8php.html#a3070e4b5ecc72d681f45401647cd532a',1,'search.php']]],
+  ['_24file',['$file',['../dncdownload_8php.html#aa1bfbd27060176201b271918dff57e8f',1,'dncdownload.php']]],
+  ['_24flag',['$flag',['../show__part_8php.html#acf5d6dd3ee125abb9a2523b30bc47d02',1,'show_part.php']]],
+  ['_24http_5freferer',['$http_referer',['../core_8php.html#af25ba4c2b4305994db82780de5cf37e3',1,'core.php']]],
+  ['_24id_5fm',['$id_m',['../logout_8php.html#aea52a0f9ed5911830c2cf44412b8e1ed',1,'logout.php']]],
+  ['_24mysql_5fdb',['$mysql_db',['../conn_8php.html#a158e8d3838661fcab4fd43e7918c6e76',1,'conn.php']]],
+  ['_24mysql_5fhost',['$mysql_host',['../conn_8php.html#a634270c8d498dd3b7ae1be23a6d2e0b5',1,'conn.php']]],
+  ['_24mysql_5fpass',['$mysql_pass',['../conn_8php.html#a3cc7a590eaed38abba7a752eca7158e0',1,'conn.php']]],
+  ['_24mysql_5fuser',['$mysql_user',['../conn_8php.html#aa5ff88366cd1d94ee80c60a25c1a726c',1,'conn.php']]],
+  ['_24name',['$name',['../dncdownload_8php.html#ab2fc40d43824ea3e1ce5d86dee0d763b',1,'dncdownload.php']]],
+  ['_24query',['$query',['../search_8php.html#af59a5f7cd609e592c41dc3643efd3c98',1,'search.php']]],
+  ['_24query_5fm',['$query_m',['../logout_8php.html#ae329f02109ed78272a42886c98df3bd9',1,'logout.php']]],
+  ['_24query_5fo',['$query_o',['../logout_8php.html#aeabafca44a286021e5053d90b7ac02c2',1,'logout.php']]],
+  ['_24result_5fm',['$result_m',['../logout_8php.html#ad115cd7edecc850395803ef46988df70',1,'logout.php']]],
+  ['_24result_5fo',['$result_o',['../logout_8php.html#abfea95b9a9b54de82d704c5e99871497',1,'logout.php']]],
+  ['_24searchterm',['$searchTerm',['../search_8php.html#a83ce06f839224573e9ffa6cfaf578a34',1,'search.php']]],
+  ['_24surname',['$surname',['../main_8php.html#a5c7ca58dd36213d80d84035699c3ed73',1,'main.php']]],
+  ['_24username',['$username',['../change__password_8php.html#acc098a0710d41b208e95c39f094a3e4c',1,'$username():&#160;change_password.php'],['../logout_8php.html#a0eb82aa5f81cf845de4b36cd653c42cf',1,'$username():&#160;logout.php'],['../main_8php.html#acc098a0710d41b208e95c39f094a3e4c',1,'$username():&#160;main.php']]],
+  ['_24value',['$value',['../logout_8php.html#a0f298096f322952a72a50f98a74c7b60',1,'logout.php']]]
+];
